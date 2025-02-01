@@ -1,0 +1,8 @@
+{
+    "name": "Keyboard numbers row",
+    "description": "Add a numbers row to the installed keyboard layouts.",
+    "category": "keyboard",
+    "infos": {
+        "maintainer": "artur"
+    }
+}
